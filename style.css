@@ -15,12 +15,10 @@ body {
   width: 25px;
 }
 
-.grid>div:nth-child(16n) {
-  width: 100% !important;
-  border: 0;
-  height: 0;
+button {
+    margin: 10px;
 }
 
-.grid>div:hover {
+/* .grid>div:hover {
     background-color: grey;
-}
+} */
